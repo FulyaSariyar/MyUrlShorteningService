@@ -4,8 +4,11 @@
 Build a simple URL shortening Service. The service should be implemented as stand-alone application (preferable with .NET) and should provide the following features as 
 # Restful API:
 Shortening: Take a URL and return a much shorter URL.
+
  The input URL format must be valid
+
  Maximum character length for the hash portion of the URL is 6
+
  The Service should return a meaningful message with a suitable status code
 
 Eg: https://www.sample-site.com/karriere/berufserfahrene/direkteinstieg/ =>
