@@ -1,6 +1,4 @@
-﻿# MyUrlShorteningService
-
-# URL shortening Service
+﻿# URL shortening Service
 Build a simple URL shortening Service. The service should be implemented as stand-alone application (preferable with .NET) and should provide the following features as 
 # Restful API:
 Shortening: Take a URL and return a much shorter URL.
